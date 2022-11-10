@@ -1,7 +1,7 @@
 # md2docx
 
 
-## ⚖ License
+## License
 
 Copyright (c) 2017-present Takeshi Katano. All rights reserved. This software is released under the [MIT License](https://github.com/tksh164/lab-md2docx/blob/master/LICENSEE).
 
